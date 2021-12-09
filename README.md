@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @floreine-rodriguez-360
 - 👀 I’m interested in music, f1, reading, and some other stuff
-- 🌱 I’m currently learning to skateboard
 - 💞️ I am a Product Designer on the Open360 team at 360Learning
 
 <!---
